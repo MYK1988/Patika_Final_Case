@@ -1,1 +1,1 @@
-# Patika_Final_Case
+Patika 6 Aylık Yazılım Eğitim Desteği Kursunun Bitirme Ödevi
